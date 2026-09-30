@@ -1,6 +1,6 @@
 let firstName="rash";//a)firstname
 console.log(firstName);  
-console.log(typeof(firstName));
+console.log(typeof (firstName));
 
 let companyName="Infosys";//b)companyname
 console.log(companyName);
